@@ -54,5 +54,10 @@
   },
   "peerDependencies": {
     "n8n-workflow": "*"
+  },
+  "dependencies": {
+    "@n8n_io/ai-assistant-sdk": "^1.13.0",
+    "n8n-core": "^1.14.1",
+    "n8n-editor-ui": "^1.6.0"
   }
 }
