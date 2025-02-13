@@ -60,4 +60,7 @@
     "n8n-core": "^1.14.1",
     "n8n-editor-ui": "^1.6.0"
   }
+  "scripts": {
+  "start": "node server.js"
+}
 }
